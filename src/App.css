@@ -4,7 +4,7 @@
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(79deg, #2dabe6, #e0dee0 48%, #e753e0);
+  background: linear-gradient(79deg, #2dabe6, #b8b5b8 48%, #e753e0);
 }
 
 .auth-form-container,.login-form, .signup-form {
