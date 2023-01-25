@@ -29,6 +29,7 @@ function App() {
         currentForm === "login" ? <Login onFormSwitch={toggleForm} /> : <Signup onFormSwitch={toggleForm}  />
       }
     </div>
+    </div>
   );
 }
 
