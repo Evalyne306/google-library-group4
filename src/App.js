@@ -1,12 +1,15 @@
-import React from "react";
-import Search from "./component/Saerch";
+import React, { useState } from "react";
 
-function App(){
-  return(
-    <div className="App">
-      <Search />
-    </div>
+
+function App() {
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+
+  return (
+    <div>
+      
+    </div>   
   )
 }
 
-export default App
+
+export default App;
